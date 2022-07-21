@@ -8,14 +8,14 @@
     "text": ""
   },
   "text": {
-    "more": "Some desc",
-    "intro": "",
-    "title": "Test graph"
+    "more": "Please feel free to acess each node, get acess to metrics concerning that node, such as Degree, Betweeness Centrality, Weighted Degree, and Page Rank. This web page has the functionality of zoom-in and zoom-out of each node to get a better idea of the structure of the graph.\nThe creators of this web page give due credit to Oxford Institute and JISC. \n",
+    "intro": "This is a visualization demonstrating the problem statement of identifying instances of potential swapping of urine samples among athletes. Please follow the manuscript for a detailed information about steps we followed to do the complete network analysis. ",
+    "title": "Visualization of Graph in Homogenous Setting"
   },
   "legend": {
-    "edgeLabel": "some desc",
+    "edgeLabel": "Synthetic edges created to mimic potential swapping",
     "colorLabel": "Modularity",
-    "nodeLabel": "some desc"
+    "nodeLabel": "Indivivual Urine Samples"
   },
   "features": {
     "search": true,
